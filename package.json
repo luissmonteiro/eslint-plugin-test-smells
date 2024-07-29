@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-test-smells",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "An ESLint plugin to detect test smells in your code",
     "keywords": [
         "eslint",
