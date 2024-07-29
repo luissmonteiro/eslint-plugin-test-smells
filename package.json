@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-test-smells",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "An ESLint plugin to detect test smells in your code",
     "keywords": [
         "eslint",
@@ -18,7 +18,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luissmonteiro/eslint-plugin-test-smells.git"},
+        "url": "git+https://github.com/luissmonteiro/eslint-plugin-test-smells.git"
+    },
     "devDependencies": {
         "@babel/eslint-parser": "^7.24.5",
         "chai": "^4.3.4",
@@ -33,8 +34,8 @@
     },
     "bugs": {
         "url": "https://github.com/luissmonteiro/eslint-plugin-test-smells/issues"
-      },
-      "homepage": "https://github.com/yourusername/eslint-plugin-test-smells#readme",
+    },
+    "homepage": "https://github.com/yourusername/eslint-plugin-test-smells#readme",
     "peerDependencies": {
         "eslint": "^7.6.0"
     },
@@ -43,5 +44,4 @@
         "@typescript-eslint/eslint-plugin": "^7.8.0",
         "@typescript-eslint/parser": "^7.8.0"
     }
-    
 }
