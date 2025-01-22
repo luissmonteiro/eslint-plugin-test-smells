@@ -86,9 +86,9 @@ Ensuring that external resources are checked for existence before being used hel
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#ResourceOptimism)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#ResourceOptimism)
 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Dependencies/External%20dependencies/Resource%20Optimism.html)
+[Test Smells Catalog Docs](https://test-smell-catalog.readthedocs.io/en/latest/Dependencies/External%20dependencies/Resource%20Optimism.html)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

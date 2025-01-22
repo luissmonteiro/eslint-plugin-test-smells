@@ -79,9 +79,9 @@ Avoiding conditional logic in test blocks improves test readability and ensures 
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#ConditionalTestLogic)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#ConditionalTestLogic)
 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Test%20semantic-logic/Other%20test%20logic%20related/Conditional%20Test%20Logic.html)
+[Test Smells Catalog Docs](https://test-smell-catalog.readthedocs.io/en/latest/Test%20semantic-logic/Other%20test%20logic%20related/Conditional%20Test%20Logic.html)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

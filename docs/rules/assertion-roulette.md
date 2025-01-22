@@ -68,9 +68,9 @@ Avoiding assertion roulette by limiting the number of assertions in a single tes
 
 ### References and other sources: 
 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Test%20semantic-logic/Testing%20many%20things/Assertion%20Roulette.html)
+[Test Smells Catalog Docs](https://test-smell-catalog.readthedocs.io/en/latest/Test%20semantic-logic/Testing%20many%20things/Assertion%20Roulette.html)
 
-[text](https://testsmells.org/pages/testsmells.html#AssertionRoulette)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#AssertionRoulette)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

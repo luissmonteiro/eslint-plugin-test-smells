@@ -68,9 +68,9 @@ In these examples, each test block calls a single production method, making it c
 Avoiding the call of multiple production methods in a single test block improves test readability and simplifies debugging. This rule helps ensure that test blocks call a single production method, preventing confusion and making the test suite more maintainable.
 
 ### References and other sources: 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Test%20semantic-logic/Testing%20many%20things/Eager%20Test.html)
+[Test Smells Catalog Docs](https://test-smell-catalog.readthedocs.io/en/latest/Test%20semantic-logic/Testing%20many%20things/Eager%20Test.html)
 
-[text](https://testsmells.org/pages/testsmells.html#EagerTest)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#EagerTest)
 
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).

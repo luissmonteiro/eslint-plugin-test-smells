@@ -74,9 +74,9 @@ Avoiding the use of setTimeout in test code helps ensure that tests are reliable
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#SleepyTest)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#SleepyTest)
 
-[text](https://harith-sankalpa.medium.com/wait-do-not-sleep-f916e501878d)
+[Medium article](https://harith-sankalpa.medium.com/wait-do-not-sleep-f916e501878d)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

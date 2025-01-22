@@ -66,9 +66,9 @@ Flagging ignored test cases helps ensure that all test cases are executed and va
 
 ### References and other sources: 
 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Code%20related/Violating%20coding%20best%20practices/Ignored%20Test.html)
+[Test Smells Catalog Docs](https://test-smell-catalog.readthedocs.io/en/latest/Code%20related/Violating%20coding%20best%20practices/Ignored%20Test.html)
 
-[text](https://testsmells.org/pages/testsmells.html#IgnoredTest)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#IgnoredTest)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

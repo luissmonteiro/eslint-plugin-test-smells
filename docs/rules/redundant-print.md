@@ -58,9 +58,9 @@ Flagging redundant console.log statements helps ensure that the code is clean, m
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#RedundantPrint)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#RedundantPrint)
 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Test%20execution%20-%20behavior/Other%20test%20execution%20-%20behavior/Redundant%20Print.html)
+[Test Smells Catalog Docs](https://test-smell-catalog.readthedocs.io/en/latest/Test%20execution%20-%20behavior/Other%20test%20execution%20-%20behavior/Redundant%20Print.html)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

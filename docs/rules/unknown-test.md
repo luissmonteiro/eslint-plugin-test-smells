@@ -59,7 +59,7 @@ Including assertions in test blocks is essential for effective testing. This rul
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#UnknownTest)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#UnknownTest)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

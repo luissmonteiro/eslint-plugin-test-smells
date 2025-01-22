@@ -70,9 +70,9 @@ Avoiding the use of try-catch blocks within test cases improves test reliability
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#ExceptionHandling)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#ExceptionHandling)
 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Issues%20in%20test%20steps/Issues%20in%20exception%20handling/Exception%20Handling.html)
+[Test-Smells Ctalog](https://test-smell-catalog.readthedocs.io/en/latest/Issues%20in%20test%20steps/Issues%20in%20exception%20handling/Exception%20Handling.html)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

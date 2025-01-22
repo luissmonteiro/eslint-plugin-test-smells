@@ -61,7 +61,7 @@ Avoiding sensitive equality comparisons helps prevent subtle bugs and ensures th
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#SensitiveEquality)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#SensitiveEquality)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.

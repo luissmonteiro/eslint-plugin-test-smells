@@ -62,9 +62,9 @@ Avoiding the use of constructors in test classes for initialization improves the
 
 ### References and other sources: 
 
-[text](https://testsmells.org/pages/testsmells.html#ConstructorInitialization)
+[TestSmells Org](https://testsmells.org/pages/testsmells.html#ConstructorInitialization)
 
-[text](https://test-smell-catalog.readthedocs.io/en/latest/Design%20related/Not%20using%20test%20patterns/Constructor%20Initialization.html)
+[Test Smells Catalog Docs](https://test-smell-catalog.readthedocs.io/en/latest/Design%20related/Not%20using%20test%20patterns/Constructor%20Initialization.html)
 
 - NGUYEN, Hung Nguyen, Hoan Nguyen, Tung Nguyen, Anh Tien, Nguyen. (2012).
 Detection of embedded code smells in dynamic web applications.
